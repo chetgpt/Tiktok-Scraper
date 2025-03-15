@@ -1,4 +1,4 @@
-# CHETGPT: It's a tool to get tiktok comments, the best result so far is 1-10% of the total comments for 1k above and around 50% for below 100 comments. The main problem for me is getting the rest of the comments.
+# CHETGPT: It's a tool to get tiktok comments, the best result so far is 1-10% of the total comments for 1k above and around 50% for below 100 comments. The main problem for me is getting the rest of the comments. TIKTOK BOT COMMENT CONTINUE LATER.py seems promising, but right now i want to focus on extraction rather than insertion, hope you get my intention.
 
 # BY CHATGPT
 
